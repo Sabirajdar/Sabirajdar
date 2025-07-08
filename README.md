@@ -36,27 +36,43 @@
 
 ---
 
-## 🧑‍💻 Projects
+## 🚀 Projects
 
-### 📌 Node.js CRUD App  
-> A full CRUD application using Node.js, Express, MySQL, EJS.  
-🔗 [View on GitHub](https://github.com/Sabirajdar/Nodejs)
+### 📌 [Node.js CRUD App](https://github.com/Sabirajdar/Nodejs)
+**Tech Stack**: Node.js, Express.js, MySQL, EJS  
+🔹 Full-stack CRUD web application  
+🔹 Implements Create, Read, Update, Delete operations  
+🔹 Uses EJS for frontend templating and Express for backend routes  
 
-### 📌 JavaScript Calculator  
-> Simple and interactive calculator built using JavaScript, HTML, and CSS.  
-🔗 [View on GitHub](https://github.com/Sabirajdar)
+---
 
-### 📌 Java Employee Management System  
-> Java-based OOP project to manage employee details including salary and attendance.
+### 📌 [JavaScript Calculator](https://github.com/Sabirajdar)
+**Tech Stack**: HTML5, CSS3, JavaScript  
+🔹 Interactive web-based calculator  
+🔹 Clean UI and responsive layout  
+🔹 Built using vanilla JavaScript and custom CSS  
 
-### 📌 IoT Virtual Doctor Robot  
-> Internet-controlled robotic vehicle with video call capability and patient monitoring system.
+---
+
+### 📌 Java Employee Management System
+**Tech Stack**: Java (Core), OOP  
+🔹 Console-based system to manage employee records  
+🔹 Tracks personal details, salary, and attendance  
+🔹 Designed with Object-Oriented Programming concepts  
+
+---
+
+### 📌 IoT Virtual Doctor Robot *(Final Year Project)*
+**Tech Stack**: IoT, Embedded C, Hardware Integration  
+🔹 Controlled via internet for remote healthcare support  
+🔹 Includes live video call feature and health monitoring  
+🔹 Designed to assist doctors and patients virtually  
 
 ---
 
 ## 📜 Education
 
-🎓 **B.E. Electronics & Telecommunication** – SVERI's COE, Pandharpur – *Solapur University* (2024)  
+🎓 **B.E. Electronics & Telecommunication** – SVERI's COE, Pandharpur – *Solapur University (2024)*  
 📊 CGPA: **9.00** | **Percentage: 78.21%**
 
 📖 HSC: **70%** – Akshar Jr. College, Kandalgaon  
