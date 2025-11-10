@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on **Node.js CRUD Projects**  
 🌱 I’m currently learning **Full Stack Web Development**  
-💬 Ask me about **Java, HTML, CSS, JS, Node.js, SQL**  
+💬 Ask me about **Java, HTML, CSS, JS, Node.js, React js,Spring, SQL**  
 📫 Reach me at **shraddhabirajdar4@gmail.com**  
 📍 Based in **Pune, Maharashtra, India**
 
