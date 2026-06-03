@@ -37,11 +37,14 @@
 
 ## 🚀 Projects
 
-### 📌 [Node.js CRUD App](https://github.com/Sabirajdar/Nodejs)
-**Tech Stack**: Node.js, Express.js, MySQL, EJS  
-🔹 Full-stack CRUD web application  
-🔹 Implements Create, Read, Update, Delete operations  
-🔹 Uses EJS for frontend templating and Express for backend routes  
+### 📌 [NGO Pavati Book](https://pavatibook.online/)
+**Tech Stack**: Node.js, Express.js, MySQL, EJS, Bootstrap
+🔹 Web-based NGO donation receipt (Pavati) management system
+🔹 Generate, print, and manage donation receipts digitally
+🔹 Maintains donor records and donation history
+🔹 PDF receipt generation for easy sharing and printing
+🔹 Secure authentication and role-based access
+🔹 Built using Node.js, Express.js, MySQL, and EJS 
 
 ---
 
